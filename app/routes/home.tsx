@@ -10,7 +10,7 @@ import{Link, useNavigate} from 'react-router';
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Resumind" },
+    { title: "HR Learning Centre" },
     { name: "description", content: "Smart Feedback for your dream job!" },
   ];
 }
